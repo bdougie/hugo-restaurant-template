@@ -9,4 +9,3 @@ title: whiskey cocktail
 type: cocktails
 price: '14'
 ---
-
