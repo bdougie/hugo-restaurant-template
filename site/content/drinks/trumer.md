@@ -4,6 +4,7 @@ categories:
  - drinks
 type: beer
 title: trumer brauerei pils
-description: (usa) crisp austrian-style lager (12oz)
+description: >-
+  (usa) crisp austrian-style lager (12oz)
 price: 7
 ---
