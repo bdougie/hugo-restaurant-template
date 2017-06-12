@@ -754,13 +754,11 @@ a.sidebar-nav-item {
 }
 
 video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
   position: fixed;
-  top: 50%;
-  left: 50%;
-  min-width: 100%;
-  min-height: 100%;
-  width: auto;
-  height: auto;
+  top: 0;
+  left: 0;
   z-index: -1;
-  transform: translateX(-50%) translateY(-50%);
 }
